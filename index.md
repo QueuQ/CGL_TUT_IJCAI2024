@@ -4,7 +4,7 @@ layout: default
 
 ## Materials
 
-Slides for the tutorial: <a href="https://github.com/QueuQ/CGL_IJCAI2024/blob/master/tutorial_slides.pdf"> https://github.com/QueuQ/CGL_TUT_IJCAI2024/blob/main/Tutorial_CGL_IJCAI2024.pdf </a>
+Slides for the tutorial: <a href="https://github.com/QueuQ/CGL_TUT_IJCAI2024/blob/main/Tutorial_CGL_IJCAI2024.pdf"> https://github.com/QueuQ/CGL_TUT_IJCAI2024/blob/main/Tutorial_CGL_IJCAI2024.pdf </a>
 
 Our survey on continual graph learning: <a href="https://arxiv.org/abs/2402.11565"> https://arxiv.org/abs/2402.11565 </a>
 
